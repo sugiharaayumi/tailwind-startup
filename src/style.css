@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.abc {
+  @apply mx-4 bg-red-600;
+}
+.cde {
+  @apply mx-4 bg-blue-600;
+}
+.cd1e {
+  @apply mx-4 bg-blue-600;
+}
+.cde2 {
+  @apply mx-4 bg-blue-600;
+}
