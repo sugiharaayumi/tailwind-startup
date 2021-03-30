@@ -1,0 +1,30 @@
+{
+  "name": "tailwind-startup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx mix watch",
+    "hot": "npx mix watch --hot",
+    "dev": "npx mix",
+    "prod": "npx mix --production"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "laravel-mix": "^6.0.13",
+    "postcss": "^8.2.8",
+    "tailwindcss": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayneyen/tailwind-startup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayneyen/tailwind-startup/issues"
+  },
+  "homepage": "https://github.com/wayneyen/tailwind-startup#readme"
+}
